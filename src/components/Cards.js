@@ -13,11 +13,13 @@ function Cards() {
               src='https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/07/01/Pictures/_d54e1ff0-7d19-11e8-98f1-ed5cda4a01f0.jpg'
               
               text='Connecting to a 5,000-year-old tradition of saints and sages lends a unique quality to meditation practice. I’ve had moments of feeling as if I’m in the presence of those who have done these techniques over centuries'
+              label='Elena Brower'
               path=''
             />
             <CardItem
               src='https://assets.seniority.in/media/ktpl_blog/Yoga_Asanas_That_Anyone_Can_Do-main_image.jpg'
               text='The 27-year-old seems both exuberant and wise. She says she believes that within each student lies a vast wellspring of love and potential—and it’s her job as a teacher to draw that out. Her classes blend rigorous poses and soothing adjustments with bursts of yoga philosophy.'
+              label='Heidi Kristoffer'
               path=''
             />
           </ul>
