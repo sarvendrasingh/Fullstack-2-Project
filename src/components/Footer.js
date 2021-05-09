@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join our initiative to become Vocal for Local
+        Yoga is the journey of the self, through the self, to the self.
         </p>
         <p className='footer-subscription-text'>
           You can unsubscribe at any time.
@@ -29,8 +29,8 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About Us</h2>
-            <Link to='/sign-up'>How it works</Link>
-            <Link to='/products'>Business</Link>
+            <Link to='/sign-up'>Join Us</Link>
+            <Link to='/products'>Courses</Link>
             <Link to='/'>Terms of Service</Link>
           </div>
           <div class='footer-link-items'>
@@ -53,11 +53,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              HawkerIn
+              NomadicMonk
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>HawkerIn © 2021</small>
+          <small class='website-rights'>NomadicMonk © 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
