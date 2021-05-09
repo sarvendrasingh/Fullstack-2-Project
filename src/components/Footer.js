@@ -53,11 +53,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              NomadMonk
+              NomadicMonk
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>NomadMonk © 2021</small>
+          <small class='website-rights'>NomadicMonk © 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'

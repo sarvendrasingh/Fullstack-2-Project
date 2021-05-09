@@ -76,7 +76,7 @@ const cardItem1=(
 export default function Products() {
   return(
     <>
-     <h1 className='products'>VENDORS</h1>;
+     <h1 className='products'></h1>;
      <div className="container">
        <div className="row">
            {cardItem}
