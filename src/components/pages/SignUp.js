@@ -5,7 +5,7 @@ import '../../App.css';
 export default function SignUp() {
   return (
   <>
-    <h1 className='sign-up'>LIKE & SUBSCRIBE</h1>
+    <h1 className='sign-up'></h1>
     <div className="container border rounded p-4 my-4" style={{backgroundColor: "#e3f2fd", fontSize: "20px"}}>
       <form>
         <div class="form-group">
