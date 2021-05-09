@@ -26,8 +26,8 @@ function Details(props) {
                         <label class="form-check-label" for="exampleCheck1">Want to get notified?</label>
                     </div>
                     <div class="form-group">
-                        <label for="exampleFormControlTextarea1">Program Description</label>
-                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
+                        <label for="exampleFormControlTextarea1">We'll notify you as soon as possible.</label>
+                        
                     </div>
                     <Link to="/products" class="btn text-uppercase btn-primary">Submit</Link>
                 </form>

@@ -38,7 +38,7 @@ export default function Services() {
           </li>
           <hr></hr>
           <li class="media my-5">
-            <img class="mr-3 align-self-center" src="yash2.png" style={{height:150,width:150}}  alt="Generic placeholder image"/>
+            <img class="mr-3 align-self-center" src="logo.png" style={{height:150,width:150}}  alt="Generic placeholder image"/>
             <div class="media-body align-self-center">
               <h5 class="mt-0 mb-1">Yash Kumar Singh</h5>
               E-mail address :  yash.kumar_cs18@gla.ac.in<br></br>
