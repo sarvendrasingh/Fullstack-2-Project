@@ -6,7 +6,7 @@ import '../../App.css';
 export default function Services() {
   return(
     <>
-      <h1 className='services'>About Us</h1>;
+      <h1 className='services'></h1>;
       <div className="container">
         <h2>Collaborators Details</h2>
         <ul class="list-unstyled">
