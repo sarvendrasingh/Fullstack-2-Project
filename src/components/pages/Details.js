@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Details(props) {
     return (
         <div className="p-2">
-            <h1>Place Your Order here!</h1>
+            <h1>Book Your Courses Here</h1>
             <br/>
             <h3 className="text-center">We'll connect you to the store soon!</h3>
             <div className="border border-secondary rounded p-2" style={{backgroundColor: "#ffebee"}}>
