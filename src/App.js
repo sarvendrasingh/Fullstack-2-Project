@@ -19,7 +19,7 @@ function App() {
           <Route path='/aboutus' component={Services} />
           <Route path='/products' component={Products} />
           <Route path="/details" component={Details} />
-          <Route path="/signup" component={SignUp} />
+          <Route path="/sign-up" component={SignUp} />
         </Switch>
       </Router>
     </>
