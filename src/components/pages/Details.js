@@ -6,7 +6,7 @@ function Details(props) {
         <div className="p-2">
             <h1>Book Your Courses Here</h1>
             <br/>
-            <h3 className="text-center">We'll connect you to the store soon!</h3>
+            <h3 className="text-center">We'll provide the course soon.</h3>
             <div className="border border-secondary rounded p-2" style={{backgroundColor: "#ffebee"}}>
                 <form className="p-2">
                     <div class="form-group">
@@ -23,10 +23,10 @@ function Details(props) {
                     </div>
                     <div class="form-check">
                         <input type="checkbox" class="form-check-input" id="exampleCheck1"></input>
-                        <label class="form-check-label" for="exampleCheck1">Want to receive email also along with phone call from the shop owner?</label>
+                        <label class="form-check-label" for="exampleCheck1">Want to get notified?</label>
                     </div>
                     <div class="form-group">
-                        <label for="exampleFormControlTextarea1">Item Description</label>
+                        <label for="exampleFormControlTextarea1">Program Description</label>
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="6"></textarea>
                     </div>
                     <Link to="/products" class="btn text-uppercase btn-primary">Submit</Link>
