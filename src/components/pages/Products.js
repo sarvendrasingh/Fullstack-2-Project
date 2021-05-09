@@ -11,7 +11,7 @@ const cardItem=(
            <div class="card-body">
       <h5 class="card-title"><u>NADI HANDICRAFT</u></h5>
       <p class="card-text">We in Nadi handicraft provide our customers 100% authentic and handmade products. Client satisfaction and best services are our motto</p>
-      <Link to="/Details" class="btn btn-primary">Place Order</Link>
+      <Link to="/Details" class="btn btn-primary">Book Course</Link>
            </div>
     
     </div>
@@ -20,7 +20,7 @@ const cardItem=(
     <div class="card-body">
       <h5 class="card-title"><u>MAHALAXMI SPORTS</u></h5>
       <p class="card-text">We are running this business since 1980s and providing best sports items to our customers.</p>
-      <Link to="/Details" class="btn btn-primary">Place Order</Link>
+      <Link to="/Details" class="btn btn-primary">Book Course</Link>
     </div>
     
   </div>
@@ -29,7 +29,7 @@ const cardItem=(
     <div class="card-body">
       <h5 class="card-title"><u>FILEZ SHOES</u></h5>
       <p class="card-text">Do you want trendy yet bugdet friendly shoesware? We at Feliz shoes, will provide you just with this.</p>
-      <Link to="/Details" class="btn btn-primary">Place Order</Link>
+      <Link to="/Details" class="btn btn-primary">Book Course</Link>
     </div>
     
   </div>
@@ -47,7 +47,7 @@ const cardItem1=(
       <h5 class="card-title"><u>POTTERY US</u></h5>
       <p class="card-text">It is one of the oldest and most widespread of the decorative arts, consisting of objects made of clay and hardened with heat.
        The objects made are commonly useful ones, such as vessels for holding liquids or plates or bowls from which food can be served.</p>
-       <Link to="/Details" class="btn btn-primary">Place Order</Link>
+       <Link to="/Details" class="btn btn-primary">Book Course</Link>
            </div>
     
     </div>
@@ -56,7 +56,7 @@ const cardItem1=(
     <div class="card-body">
       <h5 class="card-title"><u>SARIKA SARI</u></h5>
       <p class="card-text">Sarika Fashion deals in full variety of Indian Sarees, Lehenga, Odhani, Western dresses, Wedding dresses, etc...</p>
-      <Link to="/Details" class="btn btn-primary">Place Order</Link>
+      <Link to="/Details" class="btn btn-primary">Book Course</Link>
     </div>
     
   </div>
@@ -65,7 +65,7 @@ const cardItem1=(
     <div class="card-body">
       <h5 class="card-title"><u>STYLE WAREHOUSE</u></h5>
       <p class="card-text">This is a one stop place, where you will find every clothing item for daily wear, party, functions or any other rendezvous.</p>
-      <Link to="/Details" class="btn btn-primary">Place Order</Link>
+      <Link to="/Details" class="btn btn-primary">Book Course</Link>
     </div>
     
   </div>
